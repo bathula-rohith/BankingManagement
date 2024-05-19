@@ -1,2 +1,4 @@
 # BankingManagement
-This project is for Banking Management System using techonologies like mysql,hibernate,springboot 
+ProjectName
+   BankingManagementSystem for using  these techonologies like hibernate,mysql,springboot
+   This project for using how to create,update, delete and read for user_details in bankingManagementSystem
