@@ -1,2 +1,1 @@
-MysqlCode
-create database 
+
